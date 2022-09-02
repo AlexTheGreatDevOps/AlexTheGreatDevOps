@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in financial trading.
+- 🌱 I’m currently learning Linux.
